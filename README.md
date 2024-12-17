@@ -1,4 +1,45 @@
 # week4-grid-lab
+ -git add README.md
+ -git commit -m "comment"
+ -git push
+ -git add .
+ -git commit -m  "init project"
+ -git push 
+ -git add index.html
+ -git commit -m "เพิ่มโครงสร้าง HTML พื้นฐาน" 
+ -git add css/styles.css
+ -git commit -m "เพม Grid Layout พนฐาน" 
+ -git add css/styles.css
+ -git commit -m "เพิ่ม Media Queries สาหรับ Responsive Design"
+ -git add index.html
+ -git commit -m "เพิ่มเนื้อหาจําลองสํ
+าหรับทดสอบ Responsive"
+ -git add css/styles.css
+ -git commit -m "เพม CSS Animations"
+ -git add css/styles.css
+ -git commit -m "เพม Hover Effects" 
+ -git add  gallery.html
+ -git commit -m "สร้างโครงสร้าง HTML สํ
+าหรับแกลเลอรี่"
+ -git add css/styles-gallery.css
+ -git commit -m "เพิ่ม Masonry Layout ด ้วย CSS Grid"
+ -git add css/styles-gallery.css
+ -git commit -m "เพิ่ม Media Queries สํ
+าหรับ Responsive Gallery"
+ -git add  gallery.html
+ -git commit -m "เพมรปภาพและ Lazy Loading"
+ -git add css/styles-gallery.css  
+ -git commit -m "เพม Hover และ Loading Animations"
+ -git add js/script.js
+ -git commit -m "เพม Filter Animations"
+ -git add  gallery.html
+ -git commit -m "เชอมตอ  JavaScript"
  -
  -
- 
+ -
+ -
+ -
+ -
+ -
+ -
+ -
